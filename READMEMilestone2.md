@@ -2,48 +2,43 @@
 # AND101 Milestone 2 - **Team/App Name**
 
 Submitted by:
-- **Team Member 1 Name Here**
-- **Team Member 2 Name Here**
-- **etc**
+- **Faidh Naife
+- ** Lucia Njemanze
+- ** Amoni Hall
+- ** Rocio Saavedra
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Summary
-
-This document provides a summary of our project building process for our app, **App Name Here**
+This is a minecraft api app that provides a full description, image, and recipe for each and every minecraft item! Mods coming soon!!!
 
 ## Milestone Requirements
 
-<!-- Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
-- [ ] Assign features to each member of your group
-- [ ] Establish a goal time for completing each feature
+- [z ] Assign features to each member of your group
+- [z ] Establish a goal time for completing each feature
 
 The following REQUIRED files are included:
 
-- [ ] Updated 📄 `project_spec.md`, which contains:
+- [ z] Updated 📄 `project_spec.md`, which contains:
   - [X] App Overview (Milestone 1)
   - [X] App Spec (Milestone 1)
-  - [ ] Checked off 2+ completed features
+  - [ x] Checked off 2+ completed features
   - [ ] 2+ Videos/GIFs of build progress
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [x ] Our 🎥 Demo Video
+  - [x ] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve your submission!
+- [x ] List anything else that you added to improve your submission!
+
 
 ## 🎥 Demo Video
 
-Here's a video that demos all of the app's implemented features:
+![2025-08-07 11-50-08](https://github.com/user-attachments/assets/b850494a-d50b-4fe0-a321-d754a1c737a9)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-VIDEO created with **your chosen video tool**
 
-## Notes
-
-Here's a place for any other notes on this milestone!
