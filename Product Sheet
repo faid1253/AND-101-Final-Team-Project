@@ -1,0 +1,96 @@
+# The encyclopedia of Minecraft!
+
+## Table of Contents
+
+1. App that allows and shows all reciepes and descriptions of MC items
+1. Search, Favorite heirarchy structure, api pull, recycler view, item list, recepie example, description, category, uses, etc.
+1. 
+1. [version control was  amajor challenge]
+
+## App Overview
+
+### Description 
+
+The book of Minecraft
+
+### App Evaluation
+
+<!-- Evaluation of your app across the following attributes -->
+
+- **Category:**
+- **Mobile:**
+- **Story:**
+- **Market:**
+- **Habit:**
+- **Scope:**
+
+## Product Spec
+
+### 1. User Features (Required and Optional)
+
+Required Features:
+
+- Image of Recipe
+
+Search items
+
+Description
+
+APi pull with recycler view
+
+
+Stretch Features:
+
+- **custom ui
+- .** dark and light theme
+
+image of item
+
+Folder Favorite List
+
+Hierarchical Structure
+Modpack/what it belongs to
+### 2. Chosen API(s)
+
+- **Vercel MC API
+
+### 3. User Interaction
+
+Required Feature
+
+- Search item
+  - => **Item List
+  - ...
+- **Click Item
+  - => **Detail page pops up
+  - ...
+- ** Favorite Item
+  - Favorites in favorite page
+## Wireframes
+
+<!-- Add picture of your hand sketched wireframes in this section -->
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+### [BONUS] Digital Wireframes & Mockups
+
+### [BONUS] Interactive Prototype
+
+## Build Notes
+
+learned alot about git desktop and git.
+
+## License
+
+Copyright **2025** **Faidh Naife**
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
